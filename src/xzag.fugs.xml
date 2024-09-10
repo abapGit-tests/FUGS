@@ -3,12 +3,6 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <AREAT>Test AG</AREAT>
-   <INCLUDES>
-    <SOBJ_NAME>LXZAGF00</SOBJ_NAME>
-    <SOBJ_NAME>LXZAGTAP</SOBJ_NAME>
-    <SOBJ_NAME>LXZAGTOP</SOBJ_NAME>
-    <SOBJ_NAME>SAPLXZAG</SOBJ_NAME>
-   </INCLUDES>
    <FUNCTIONS>
     <item>
      <FUNCNAME>EXIT_SAPMZAG_001</FUNCNAME>
