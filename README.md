@@ -1,2 +1,3 @@
-# Template
-Template for abapGit CI Tests
+# FUGS
+
+Function group for SAP exits (deprecated)
